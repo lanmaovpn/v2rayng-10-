@@ -1,5 +1,6 @@
-# v2rayng-10-
-v2rayng实用小技巧
+# v2rayng实用小技巧  
+
+
 1.自定义路由规则（Routing Rules）：除了基本的分流功能外，V2RayNG 允许用户创建复杂的路由规则，以根据域名、IP、地理位置等条件来控制流量。  
 
 2.多协议支持：除了常用的VMess协议，V2RayNG也支持如Shadowsocks、Socks、HTTP等多种代理协议，但用户可能没有充分利用这些功能。  
